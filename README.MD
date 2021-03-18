@@ -44,7 +44,7 @@ docker run -p 8080:8080 -p 9090:9090 -e TZ=Europe/Amsterdam webgoat/goatandwolf
 WebGoat will be located at: http://127.0.0.1:8080/WebGoat
 WebWolf will be located at: http://127.0.0.1:9090/WebWolf
 
-**Important**: Choose the correct timezone, so that the docker container and your host are in the same timezone. As it important for the validity of JWT tokens used in certain exercises.
+**Important**: Choose the correct timezone, so that the docker container and your host are in the same timezone. As it important for the validity of JWT tokens used in certain exercises..
 
 ### Using docker stack deploy
 
